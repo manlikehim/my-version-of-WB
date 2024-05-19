@@ -1,0 +1,53 @@
+header li{
+    text-decoration: none;
+    text-align:right;
+    background-color:;
+    overflow: hidden;
+     display:inline-flex;
+     padding: 50px;;
+font-size: larger;
+
+}
+
+header nav{
+
+text-align:justify;
+}
+
+header{
+    background-color: black;
+}
+body nav article li{
+    padding: 30px;
+    text-align: right;
+    display: inline-flex;
+}
+
+body nav  article h1{
+    font-size: xx-large;
+    text-align: center;
+    font-style: oblique;
+}
+body nav  article h2{
+    font-size: xx-large;
+    text-align: center;
+    font-style: oblique;
+}
+footer li{
+
+    
+    display:inline-flex;
+    padding-right: 30px
+    
+}
+footer{ background-color: aqua;
+    
+    
+    
+}
+footer nav h1{
+    
+    font-size: larger;
+    text-decoration-color:beige;
+    text-align: center;
+}
