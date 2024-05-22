@@ -49,5 +49,11 @@ footer nav h1{
     
     font-size: larger;
     text-decoration-color:beige;
-    text-align: center;
+    text-align:center;
+}
+
+body header li{
+text-decoration: none;
+text-decoration-line: none;
+
 }
